@@ -16,7 +16,7 @@ picture img{
 }
 
 .fondo {
-  background-image: url("../images/landscape.jpg");
+  background-image: url("../images/Landscape.jpg");
   background-size: cover;
   height: 100vh;
 }
